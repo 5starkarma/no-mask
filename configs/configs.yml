@@ -1,0 +1,7 @@
+
+
+data:
+    images_path: '/content/drive/My Drive/Colab Notebooks/no-mask/data/images'
+    train_path: '/content/drive/My Drive/Colab Notebooks/no-mask/data/images/train'
+    val_path: '/content/drive/My Drive/Colab Notebooks/no-mask/data/images/val'
+    train_size: 0.80
