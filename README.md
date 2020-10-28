@@ -3,3 +3,7 @@
 # No Mask Detection
 
 Mask detection trained on YOLOv5.
+
+---
+
+![alt text](https://github.com/5starkarma/no-mask/blob/main/data/gifs/mask.gif?raw=true "Inference")
